@@ -1,0 +1,37 @@
+@import url("http://fonts.googleapis.com/css?family=Oswald:400,300,700");
+
+body{
+    background-color: #2d333a;
+    color: whitesmoke;
+    overflow-x: hidden;
+}
+
+body nav{
+    font-family: 'Oswald', sans-serif !important;
+    font-size: 34px;
+}
+
+.zoom{
+    transition: transform 0.2s;
+}
+
+.zoom:hover{
+    transform: scale(1.1);
+    transition: transform 0.2s;
+}
+
+.portfolio-btn{
+    border-radius: 20px; 
+    padding: 28px 70px; 
+    font-size: 30px; 
+    font-family: 'Oswald', sans-serif !important;
+}
+
+.testbox{
+    background-color: blue;
+}
+
+form textarea{
+    min-height: 150px;
+    max-height: 150px;
+}

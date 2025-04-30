@@ -1,0 +1,63 @@
+Website Design Assignment: Bootstrap 5
+Instructions
+•	Download and review examples from Bootstrap 5 Examples (https://getbootstrap.com/docs/5.3/examples/).
+•	Using Bootstrap 5, create a responsive website based on the requirements below.
+•	You may use HTML, CSS, and Bootstrap classes only.
+•	Submit your project folder containing all files (HTML, CSS, images, and other assets).
+________________________________________
+Question
+Objective:
+Design a Portfolio Website for a freelancer using Bootstrap 5. Your website must include the following:
+________________________________________
+1. Navigation Bar (Header) (5 Marks)
+•	Use the Navbar component from Bootstrap.
+•	Include:
+o	A brand/logo on the left.
+o	Navigation links: "Home", "About", "Portfolio", and "Contact".
+o	A responsive toggle button for smaller screens.
+________________________________________
+2. Hero Section (5 Marks)
+•	Use a Jumbotron-style section or a custom container.
+•	Add a background image with a heading and subheading that introduces the freelancer (e.g., "Hi, I'm John Doe – Web Designer").
+•	Center the text vertically and horizontally.
+________________________________________
+3. Portfolio Section (10 Marks)
+•	Create a responsive grid layout using Bootstrap's Grid System.
+•	Add 6 sample portfolio items with:
+o	Images (placeholders allowed).
+o	Captions under each image.
+o	Hover effect: Enlarge the image or display a brief description.
+________________________________________
+4. About Section (5 Marks)
+•	Use a two-column layout.
+o	One column for an image of the freelancer.
+o	The other column for a description of their skills and experience.
+________________________________________
+5. Contact Form (10 Marks)
+•	Use Bootstrap's Form Component to create a simple form.
+•	Include:
+o	Name, Email, Subject, and Message fields.
+o	A "Submit" button styled with a Bootstrap button class.
+o	Ensure the form is responsive.
+________________________________________
+6. Footer (5 Marks)
+•	Add a footer at the bottom of the page.
+•	Include:
+o	Links to social media icons (e.g., Facebook, LinkedIn, Twitter).
+o	A "Back to Top" button.
+•	Style the footer with a dark background and light text.
+________________________________________
+Bonus (Optional – 5 Marks):
+•	Add a Carousel showcasing testimonials or additional portfolio items.
+•	Include at least three slides with images and captions.
+________________________________________
+Grading Criteria:
+Component	Marks
+Navigation Bar	5
+Hero Section	5
+Portfolio Section	10
+About Section	5
+Contact Form	10
+Footer	5
+Total Marks	40
+
